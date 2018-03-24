@@ -20,7 +20,7 @@ Second install Yarn
 
 ##### Install new element
 
-yarn add @polymer/some-element --flat
+yarn add --flat @polymer/paper-input@next
 
 ### Start the development server
 
