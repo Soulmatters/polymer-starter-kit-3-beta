@@ -6,7 +6,7 @@
 First, install [Polymer CLI](https://github.com/Polymer/polymer-cli) using
 [npm](https://www.npmjs.com) (we assume you have pre-installed [node.js](https://nodejs.org)).
 
-    npm install -g polymer-cli@next
+    npm install -g polymer-cli@next --unsafe-perm
 Second install Yarn
 
     npm install -g yarn (or https://yarnpkg.com/en/docs/install)
