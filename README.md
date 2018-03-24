@@ -15,6 +15,12 @@ Second install Yarn
 
     git clone https://github.com/Soulmatters/polymer-starter-kit-3-beta.git
     cd polymer-starter-kit-3-beta
+    yarn install --flat
+
+
+##### Install new element
+
+yarn add @polymer/some-element --flat
 
 ### Start the development server
 
